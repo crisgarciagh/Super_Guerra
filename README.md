@@ -5,6 +5,13 @@ El proyecto consiste en la creación de un sonido ambiente inmersivo que transpo
 
 https://mega.nz/folder/86MWgQTS#UKkr1WyG2iAh4G2uH3Tvjg/folder/cytRhL4B
 
+Cómo descargar:
+
+
+1º Darle al boton de descarga obteniendo un archivo para abrir directamente en Pure Data donde está generado el sonido.
+
+2º Descarcar los archivos sonoros para poder ejecutar el proyecto. 
+
 ![Imagen 1](https://github.com/crisgarciagh/Super_Guerra/assets/101996396/d6247ebb-fe0f-44bd-aeb1-558d9051bfb0)
 
 ![Imagen 2](https://github.com/crisgarciagh/Super_Guerra/assets/101996396/a9948178-7baf-41c8-bdf4-fa3cc1ed4ceb)
